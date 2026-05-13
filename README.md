@@ -1,4 +1,4 @@
-# Generador de Configuraciones Cisco IOS con IA
+# Generador de Configuraciones Cisco IOS 
 
 Herramienta de consola en Python que genera configuraciones Cisco IOS reales a partir de escenarios de red descritos por el usuario, usando la API de Groq con streaming en tiempo real.
 
