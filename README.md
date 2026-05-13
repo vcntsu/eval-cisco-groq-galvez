@@ -6,9 +6,9 @@ Herramienta de consola en Python que genera configuraciones Cisco IOS reales a p
 
 | Nombre | Rol |
 |--------|-----|
-| [Nombre 1] | Desarrollo escenarios A y B, validaciones |
-| [Nombre 2] | Desarrollo escenarios C y D, persistencia |
-| [Nombre 3] | System prompt, manejo de errores, README |
+| [Vicente Galvez] | Desarrollo escenarios A y B, validaciones |
+| [Vicente Galvez] | Desarrollo escenarios C y D, persistencia |
+| [Vicente Galvez] | System prompt, manejo de errores, README |
 
 Instalación
 
