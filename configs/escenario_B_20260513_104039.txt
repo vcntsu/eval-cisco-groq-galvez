@@ -1,0 +1,9 @@
+!
+router ospf 202
+!
+network 192.168.1.1 0.0.0.255 area 0
+!
+network 192.168.1.2 0.0.0.255 area 0
+!
+network 192.168.1.3 0.0.0.255 area 0
+!

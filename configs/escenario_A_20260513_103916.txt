@@ -1,0 +1,31 @@
+enable
+configure terminal
+!
+vlan 69
+name ventas
+exit
+!
+vlan 67
+name administracion
+exit
+!
+interface FastEthernet0/1
+switchport mode access
+switchport access vlan 69
+no shutdown
+exit
+!
+interface FastEthernet0/2
+switchport mode access
+switchport access vlan 67
+no shutdown
+exit
+!
+interface GigabitEthernet0/1
+switchport mode trunk
+switchport trunk allowed vlan 69,67
+no shutdown
+exit
+!
+end
+write memory
